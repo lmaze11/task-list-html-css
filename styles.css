@@ -1,0 +1,14 @@
+h1 {
+    font-family: "Courier";
+    color: rgb(55, 116, 162);
+    text-align: center;
+    background-color: beige;
+}
+
+.tasks {
+    text-decoration: underline;
+}
+
+#priority-1 {
+    color: red;
+}
